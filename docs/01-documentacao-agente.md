@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
--Falta de controle em tempo real: 
+- Falta de controle em tempo real: 
 Usuários só percebem que gastaram demais no final do mês, quando a fatura fecha.
 Compras impulsivas: Dificuldade em manter a disciplina financeira no dia a dia.
 Esquecimento de assinaturas: Cobranças recorrentes ou assinaturas esquecidas acumulando gastos desnecessários.
@@ -14,7 +14,7 @@ Surpresas no saldo: Saídas de dinheiro não planejadas que comprometem o orçam
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
--Notificação instantânea de compra: A cada compra, o usuário recebe um alerta, aumentando a consciência sobre o gasto.
+- Notificação instantânea de compra: A cada compra, o usuário recebe um alerta, aumentando a consciência sobre o gasto.
 Alertas de limite de categoria: O usuário define orçamentos (ex: R$ 500 em "iFood"). Ao atingir 80% e 100% desse valor, o app envia um alerta.
 Resumo de gastos semanais: Relatório automático mostrando quanto foi gasto e quanto resta para evitar o "estresse financeiro".
 Aviso de gastos recorrentes: Notificação antes que uma assinatura anual ou mensal seja debitada.
@@ -22,7 +22,7 @@ Aviso de gastos recorrentes: Notificação antes que uma assinatura anual ou men
 ### Público-Alvo
 > Quem vai usar esse agente?
 
--Pessoas organizando finanças: Jovens profissionais ou estudantes que buscam controle financeiro.
+- Pessoas organizando finanças: Jovens profissionais ou estudantes que buscam controle financeiro.
 Famílias/Casais: Pessoas que precisam gerenciar orçamento conjunto e evitar surpresas no saldo.
 Empreendedores/MEI: Pequenos empreendedores que separam finanças pessoais das profissionais e precisam gerenciar fluxo de caixa.
 Consumidores impulsivos: Pessoas que desejam criar alertas para evitar compras supérfluas.
