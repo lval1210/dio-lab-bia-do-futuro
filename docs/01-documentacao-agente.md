@@ -37,7 +37,7 @@ Max.
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
--Educativo, direto
+- Educativo, direto
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
