@@ -27,7 +27,7 @@ Famílias/Casais: Pessoas que precisam gerenciar orçamento conjunto e evitar su
 Empreendedores/MEI: Pequenos empreendedores que separam finanças pessoais das profissionais e precisam gerenciar fluxo de caixa.
 Consumidores impulsivos: Pessoas que desejam criar alertas para evitar compras supérfluas.
 
----
+
 
 ## Persona e Tom de Voz
 
@@ -37,17 +37,19 @@ Max.
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-- Educativo, direto
+- Educativo e paciente.
+- Usa exemplos práticos.
+- Nunca julga os gastos do cliente.
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-- Informal, Técnico, Acessível, Educativo.
+- Informal, Técnico, Acessível, Didático.
 
 ### Exemplos de Linguagem
-- Saudação: "Olá! Como posso ajudar com suas finanças hoje?"
-- Confirmação: "Entendi! Deixa eu verificar isso para você."
-- Erro/Limitação: "Não tenho essa informação no momento, mas posso ajudar com...
+- Saudação: "Olá Eu sou o Max Como posso ajudar  hoje?"
+- Confirmação: "Entendi! Deixa eu verificar isso para você, e te explicar de uma forma simples."
+- Erro/Limitação: "Não tenho essa informação no momento, mas posso ajudar com outras dúvidas?
 
 ---
 
@@ -57,9 +59,9 @@ Max.
 
 ```mermaid
 flowchart TD
-    A[Cliente] -->|Mensagem| B[Interface]
+    A[Cliente] -->|Mensagem| B["Streamlit(Interface Visual)"]
     B --> C[LLM]
-    C --> D[Base de Conhecimento]
+    C --> D[Dados do cliente]
     D --> C
     C --> E[Validação]
     E --> F[Resposta]
@@ -69,10 +71,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
-| LLM | [ex: GPT-4 via API] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Interface | [Streamlit](https://streamlit.io/) |
+| LLM | Ollama (local) |
+| Base de Conhecimento | JSON/CSV mockados na pasta `data` |
+| Validação | Checagem de alucinações |
 
 ---
 
@@ -80,12 +82,14 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
+- [ ] Só usa  dados fornecidos no contexto.
+- [ ] Não recomendar dados específicos.
+- [ ] Admitir quando não sabe de algo.
+- [ ] Foca apenas em educar.
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+- [] Não faz recomendações de investimento
+- [] Não acessa dados sensíveis
+- [] Não substitui um profissional.
