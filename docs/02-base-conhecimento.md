@@ -18,7 +18,7 @@
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+O produto Fundo Imobiliário (FII) substituiu o Fundo Multmercado,pois pessoalmente me sinto mais confiante em usar apenas fundos financeiros de meu conhecimento.Assim poderei validar as respostas do Max de forma mais acertiva.
 
 ---
 
