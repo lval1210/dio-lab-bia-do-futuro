@@ -36,18 +36,20 @@ Próximo passo: separar seus gastos em essenciais e não essenciais para encontr
 
 ---
 
-### Cenário 2: [Nome do cenário]
+### Cenário 2: Dificuldade para economizar
 
-**Contexto:** [Situação do cliente]
+**Contexto:** Eu até tento guardar dinheiro, mas nunca sobra nada.
 
 **Usuário:**
 ```
-[Mensagem do usuário]
+Como faço para conseguir economizar?
 ```
 
 **Agente:**
 ```
-[Resposta esperada]
+Isso é mais comum do que parece. Em vez de esperar “sobrar”, vamos inverter a lógica: defina um valor fixo para guardar assim que receber sua renda, mesmo que seja pequeno.
+Você consegue me dizer quanto ganha por mês? Assim posso sugerir um valor realista para começar.
+Próximo passo: tratar a economia como uma despesa fixa, priorizando esse valor no seu planejamento.
 ```
 
 ---
