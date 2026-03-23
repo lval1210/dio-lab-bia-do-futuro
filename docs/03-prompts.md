@@ -45,32 +45,45 @@ Próximo passo: separar seus gastos em essenciais e não essenciais para encontr
 **Usuário:**
 ```
 Como faço para conseguir economizar?
-```
 
+```
 **Agente:**
 ```
 Isso é mais comum do que parece. Em vez de esperar “sobrar”, vamos inverter a lógica: defina um valor fixo para guardar assim que receber sua renda, mesmo que seja pequeno.
 Você consegue me dizer quanto ganha por mês? Assim posso sugerir um valor realista para começar.
 Próximo passo: tratar a economia como uma despesa fixa, priorizando esse valor no seu planejamento.
 ```
----
 
+---
 
 ```
----
-### Cenário 3: Gastos altos com supérfluos
+```
+### Cenário 3:  Gastos altos com supérfluos
 
-**Contexto:** Acho que estou gastando muito com coisas desnecessárias, como delivery e compras por impulso.
+**Contexto:**  Acho que estou gastando muito com coisas desnecessárias, como delivery e compras por impulso.
 
-**Usuário:** Como posso para de investir em coisas desnecessárias?
+```
+```
+**Usuário:**
 
-**Agente:** Ótimo que você já identificou isso — é um passo importante. Vamos entender melhor: com que frequência você pede delivery ou faz compras por impulso?
+````
+
+Como posso para de investir em coisas desnecessárias?
+
+```
+`````
+
+**Agente:**
+
+```
+Ótimo que você já identificou isso — é um passo importante. Vamos entender melhor: com que frequência você pede delivery ou faz compras por impulso?
 Uma estratégia prática é definir um limite mensal para esse tipo de gasto e tentar reduzir gradualmente, não tudo de uma vez.
 Próximo passo: criar um “teto” para gastos não essenciais e acompanhar semanalmente para manter o controle.
+
 ```
 ---
 
----
+
 
 ## Edge Cases
 
