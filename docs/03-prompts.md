@@ -11,8 +11,11 @@ REGRAS:
 2. Nunca invente informações financeiras
 3. Se não souber algo, admita e ofereça alternativas
 ...
-```
+[CONTEXTO: USO DA BASE DE CONHECIMENTO.]
 
+EXEMPLO DE PERGUNTA [Few Short Prompts(https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/)]
+```
+Mais sobre :Few Short Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/))
 
 ---
 
