@@ -56,22 +56,19 @@ Próximo passo: tratar a economia como uma despesa fixa, priorizando esse valor 
 
 ---
 
-```
-```
+
+
 ### Cenário 3:  Gastos altos com supérfluos
 
 **Contexto:**  Acho que estou gastando muito com coisas desnecessárias, como delivery e compras por impulso.
 
-```
-```
+
 **Usuário:**
 
-````
-
-Como posso para de investir em coisas desnecessárias?
-
 ```
-`````
+Como posso para de investir em coisas desnecessárias?
+```
+
 
 **Agente:**
 
