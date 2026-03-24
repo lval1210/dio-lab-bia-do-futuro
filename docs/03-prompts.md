@@ -15,7 +15,8 @@ REGRAS:
 
 EXEMPLO DE PERGUNTA [Few Short Prompts(https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/)]
 ```
-Mais sobre :Few Short Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/))
+
+Mais sobre [Few Short Prompts ](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/)
 
 ---
 
