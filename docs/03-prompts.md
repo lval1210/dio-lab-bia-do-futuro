@@ -157,5 +157,5 @@ Sou especializado em finanças e não tenho informações sobre previsão do tem
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
+- Registramos que há diferenças no uso de diferentes LLMs.Por exemplo ao usar ChatCPT,Cloud e Copilot tivemos comportamentos similares com o mesmo System Prompt, mas cada um deles deu respostas em padrões distintos na prática todos se sairam bem, mas o ChatGPT se perdeu no Edge Case de "Pergunta fora do escopo""
 - [Observação 2]
