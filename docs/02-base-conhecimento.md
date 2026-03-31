@@ -35,7 +35,7 @@ Existem duas possibílidades, injetar os dados diretamente no prompt (Ctrl + c, 
 import json
 import pandas as pd
 
-perfil = json.load(open('./data/perfil_investidor.json'))
+perfil = json.load(open('./data/perfil_cliente.json'))
 transacoes = pd.read_csv('./data/tarnsacoes.csv')
 historico = pd.read_csv('./data/historico_atendimento.csv')
 produtos = json.load(open('./data/produtos_financeiros.json'))
@@ -51,15 +51,15 @@ produtos = json.load(open('./data/produtos_financeiros.json'))
 ´´´
 text
 
-DADOS DO CLIENTE E PEFÍL (data/perfil_investidor.json):
+DADOS DO CLIENTE E PEFÍL (data/perfil_cliente.json):
 
 ´´´
 {
-  "nome": "João Silva",
+  "nome": "José Pelotas",
   "idade": 32,
-  "profissao": "Analista de Sistemas",
+  "profissao": "Auxiliar de Logistíca",
   "renda_mensal": 5000.00,
-  "perfil_investidor": "moderado",
+  "perfil_cliente": "moderado",
   "objetivo_principal": "Construir reserva de emergência",
   "patrimonio_total": 15000.00,
   "reserva_emergencia_atual": 10000.00,
