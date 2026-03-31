@@ -161,7 +161,7 @@ O exemplo de contexto montado abaixo, se baseia nos dados originais, da base de 
 
 ```
 Dados do Cliente:
-- Nome: João Silva
+- Nome: José Pelotas
 - Perfil: Moderado
 - Saldo disponível: R$ 5.000
 - Objetivo: Construir Reserva de Emergência.
