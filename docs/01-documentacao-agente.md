@@ -7,7 +7,7 @@ Agente para controle de gastos,e educação financeira,focado em orientar o clie
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-- Falta de controle em tempo real: 
+- Falta de controle no orçamento mensal: 
 Usuários só percebem que gastaram demais no final do mês, quando a fatura fecha.
 Compras impulsivas: Dificuldade em manter a disciplina financeira no dia a dia.
 Esquecimento de assinaturas: Cobranças recorrentes ou assinaturas esquecidas acumulando gastos desnecessários.
