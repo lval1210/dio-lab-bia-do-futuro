@@ -1,6 +1,6 @@
 # Base de Conhecimento
 ## System Prompt
-
+Explicação de como o agente Max interage com o cliente.
 
 ## Dados Utilizados
 
