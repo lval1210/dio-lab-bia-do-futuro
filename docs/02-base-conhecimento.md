@@ -8,7 +8,7 @@
 | Arquivo | Formato | Para que serve no Max ? |
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores, ou seja dar continuidade ao atendimento de forma  mais eficiente.|
-| `perfil_investidor.json` | JSON | Personalizar explicações sobre as dúvidas e necessidades de aprendizado do cliente. |
+| `perfil_cliente.json` | JSON | Personalizar explicações sobre as dúvidas e necessidades de aprendizado do cliente. |
 | `produtos_financeiros.json` | JSON | Conhecer os produtos disponiveis para que eles possam ser ensinados para o cliente. |
 | `transacoes.csv` | CSV | Analisar padrão de gastos do cliente e usar essas informações de forma didática e simples entendimento. |
 
